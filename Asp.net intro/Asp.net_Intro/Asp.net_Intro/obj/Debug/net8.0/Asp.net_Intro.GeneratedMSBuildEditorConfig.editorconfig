@@ -19,3 +19,23 @@ build_property.MSBuildProjectDirectory = D:\CFF_Backend\Asp.net intro\Asp.net_In
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
+
+[D:/CFF_Backend/Asp.net intro/Asp.net_Intro/Asp.net_Intro/Views/About/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CFF_Backend/Asp.net intro/Asp.net_Intro/Asp.net_Intro/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CFF_Backend/Asp.net intro/Asp.net_Intro/Asp.net_Intro/Views/Order/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CFF_Backend/Asp.net intro/Asp.net_Intro/Asp.net_Intro/Views/Store/Store.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcU3RvcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CFF_Backend/Asp.net intro/Asp.net_Intro/Asp.net_Intro/Views/Support/Support.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcG9ydFxTdXBwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
