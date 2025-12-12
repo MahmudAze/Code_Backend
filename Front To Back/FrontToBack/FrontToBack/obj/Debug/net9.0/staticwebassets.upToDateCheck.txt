@@ -1,0 +1,214 @@
+wwwroot\assets\css\bootstrap.css
+wwwroot\assets\css\bootstrap.min.css
+wwwroot\assets\css\boxicon.min.css
+wwwroot\assets\css\custom.css
+wwwroot\assets\css\templatemo.css
+wwwroot\assets\fonts\boxicons.eot
+wwwroot\assets\fonts\boxicons.svg
+wwwroot\assets\fonts\boxicons.ttf
+wwwroot\assets\fonts\boxicons.woff
+wwwroot\assets\fonts\boxicons.woff2
+wwwroot\assets\img\apple-icon.png
+wwwroot\assets\img\banner-bg-01.jpg
+wwwroot\assets\img\banner-bg-02.jpg
+wwwroot\assets\img\banner-bg-03.jpg
+wwwroot\assets\img\banner-img-01.svg
+wwwroot\assets\img\banner-img-02.svg
+wwwroot\assets\img\favicon.ico
+wwwroot\assets\img\feature-work-1-large.jpg
+wwwroot\assets\img\feature-work-1.jpg
+wwwroot\assets\img\feature-work-2-large.jpg
+wwwroot\assets\img\feature-work-2.jpg
+wwwroot\assets\img\feature-work-3-large.jpg
+wwwroot\assets\img\feature-work-3.jpg
+wwwroot\assets\img\feature-work-4-large.jpg
+wwwroot\assets\img\feature-work-4.jpg
+wwwroot\assets\img\our-work-01.jpg
+wwwroot\assets\img\our-work-02.jpg
+wwwroot\assets\img\our-work-03.jpg
+wwwroot\assets\img\our-work-04.jpg
+wwwroot\assets\img\our-work-05.jpg
+wwwroot\assets\img\our-work-06.jpg
+wwwroot\assets\img\pricing.svg
+wwwroot\assets\img\recent-work-01.jpg
+wwwroot\assets\img\recent-work-02.jpg
+wwwroot\assets\img\recent-work-03.jpg
+wwwroot\assets\img\recent-work-04.jpg
+wwwroot\assets\img\recent-work-05.jpg
+wwwroot\assets\img\recent-work-06.jpg
+wwwroot\assets\img\related-post-01.jpg
+wwwroot\assets\img\related-post-02.jpg
+wwwroot\assets\img\related-post-03.jpg
+wwwroot\assets\img\services-01.jpg
+wwwroot\assets\img\services-02.jpg
+wwwroot\assets\img\services-03.jpg
+wwwroot\assets\img\services-04.jpg
+wwwroot\assets\img\services-05.jpg
+wwwroot\assets\img\services-06.jpg
+wwwroot\assets\img\services-07.jpg
+wwwroot\assets\img\services-08.jpg
+wwwroot\assets\img\team-01.jpg
+wwwroot\assets\img\team-02.jpg
+wwwroot\assets\img\team-03.jpg
+wwwroot\assets\img\team-04.jpg
+wwwroot\assets\img\team-05.jpg
+wwwroot\assets\img\team-06.jpg
+wwwroot\assets\img\work-slide-01-small.jpg
+wwwroot\assets\img\work-slide-01.jpg
+wwwroot\assets\img\work-slide-02-small.jpg
+wwwroot\assets\img\work-slide-02.jpg
+wwwroot\assets\img\work-slide-03-small.jpg
+wwwroot\assets\img\work-slide-03.jpg
+wwwroot\assets\img\work-slide-04-small.jpg
+wwwroot\assets\img\work-slide-04.jpg
+wwwroot\assets\img\work-slide-05-small.jpg
+wwwroot\assets\img\work-slide-05.jpg
+wwwroot\assets\img\work-slide-06-small.jpg
+wwwroot\assets\img\work-slide-06.jpg
+wwwroot\assets\img\work.svg
+wwwroot\assets\js\bootstrap.bundle.min.js
+wwwroot\assets\js\custom.js
+wwwroot\assets\js\fslightbox.js
+wwwroot\assets\js\isotope.pkgd.js
+wwwroot\assets\js\jquery.min.js
+wwwroot\assets\js\templatemo.js
+wwwroot\assets\js\templatemo.min.js
+wwwroot\favicon.ico
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\css\bootstrap.min.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\favicon.ico
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\css\bootstrap.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\jquery-validation\LICENSE.md
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\jquery\dist\jquery.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\jquery\dist\jquery.min.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\jquery\dist\jquery.min.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\lib\jquery\LICENSE.txt
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\css\boxicon.min.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\css\custom.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\css\templatemo.css
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\fonts\boxicons.svg
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\img\banner-img-01.svg
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\img\banner-img-02.svg
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\img\favicon.ico
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\img\pricing.svg
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\img\work.svg
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\js\bootstrap.bundle.min.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\js\custom.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\js\fslightbox.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\js\isotope.pkgd.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\js\jquery.min.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\js\templatemo.js
+D:\CFF_Backend\Layout Lesson\FrontToBack\FrontToBack\wwwroot\assets\js\templatemo.min.js
