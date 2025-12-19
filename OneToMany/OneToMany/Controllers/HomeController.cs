@@ -16,8 +16,8 @@ namespace OneToMany.Controllers
 
         public IActionResult Index()
         {
-            List<Slider> sliders = _context.sliders.ToList();
-            return View(sliders);
+            List<Slider> Sliders = _context.Sliders.ToList();
+            return View(Sliders);
         }
     }
 }

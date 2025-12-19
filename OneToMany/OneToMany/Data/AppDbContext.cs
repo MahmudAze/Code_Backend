@@ -7,6 +7,6 @@ namespace OneToMany.Data
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
-        public DbSet<Slider> sliders { get; set; }
+        public DbSet<Slider> Sliders { get; set; }
     }
 }

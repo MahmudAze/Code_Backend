@@ -11,7 +11,7 @@ using OneToMany.Data;
 namespace OneToMany.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251218142657__initial")]
+    [Migration("20251219084034__initial")]
     partial class _initial
     {
         /// <inheritdoc />
@@ -23,6 +23,23 @@ namespace OneToMany.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("OneToMany.Models.Slider", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Image")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Sliders");
+                });
 #pragma warning restore 612, 618
         }
     }
