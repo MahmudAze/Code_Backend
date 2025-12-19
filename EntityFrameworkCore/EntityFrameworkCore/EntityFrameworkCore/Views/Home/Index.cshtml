@@ -1,4 +1,4 @@
-﻿@using EntityFrameworkCore.Models;
+﻿
 @model List<Slider>
 
 
@@ -14,10 +14,12 @@
 
         <section id="slider">
             <div class="owl-carousel slider">
+
                 @foreach (var item in Model)
             {
                 <div> <img src="img/@item.Image" alt=""> </div>
             }
+
             </div>
             <div class="container context pl-lg-5 ml-lg-3">
                 <div class="row">
