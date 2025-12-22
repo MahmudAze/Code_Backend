@@ -1,0 +1,38 @@
+﻿<div class="container">
+    <h1>Salam</h1>
+
+
+    <input type="search" id="searchInput" placeholder="Enter search terms...">
+    <!-- The button that triggers the JavaScript function -->
+    <button id="searchButton">Search</button>
+    <!-- An area to display the captured input or results -->
+    <p>Search term entered: <strong id="output"></strong></p>
+
+    <script>
+                const searchInput = document.getElementById('searchInput');
+        const searchButton = document.getElementById('searchButton');
+        const outputArea = document.getElementById('output');
+
+        // Function to handle the search logic
+        function handleSearch() {
+            // Get the current value from the input field
+            const searchTerm = searchInput.value;
+
+            // Display the value (in a real application, you would process this value)
+            outputArea.textContent = searchTerm;
+            console.log(`Searching for: "${searchTerm}"`);
+        }
+
+        // Add an event listener to the button to run the function when clicked
+        searchButton.addEventListener('click', handleSearch);
+
+        // Optional: Allow the search to be triggered by pressing the 'Enter' key
+        searchInput.addEventListener('keyup', function(event) {
+            // Check if the key pressed was 'Enter' (keyCode 13)
+            if (event.keyCode === 13) {
+                handleSearch();
+            }
+        });
+    </script>
+</div>
+

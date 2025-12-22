@@ -1,6 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Infrastructure;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Identity.Client;
 using OneToMany.Data;
 using OneToMany.Models;
+using OneToMany.ViewModels;
 using System.Diagnostics;
 
 namespace OneToMany.Controllers
@@ -14,10 +18,24 @@ namespace OneToMany.Controllers
             _context = context;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            List<Slider> Sliders = _context.Sliders.ToList();
-            return View(Sliders);
+            IEnumerable<Slider> sliders = await _context.Sliders.Where(m => !m.IsDeleted).ToListAsync();
+            SliderDetail sliderDetail = await _context.SlidersDetails.FirstOrDefaultAsync(m => !m.IsDeleted);
+
+            IEnumerable<Product> products = await _context.Products.Include(m => m.ProductImages).Include(m => m.Category).Where(m => !m.IsDeleted).ToListAsync();
+
+            IEnumerable<Category> categories = await _context.Categories.Where(m => !m.IsDeleted).ToListAsync();
+
+            HomeVM homeVM = new()
+            {
+                Sliders = sliders,
+                SliderDetail = sliderDetail,
+                Products = products,
+                Categories = categories
+            };
+
+            return View(homeVM);
         }
     }
 }
