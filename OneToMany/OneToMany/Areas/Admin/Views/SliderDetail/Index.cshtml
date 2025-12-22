@@ -1,0 +1,26 @@
+﻿@model SliderVM
+
+<section id="slider">
+    <div class="owl-carousel slider">
+
+        @foreach (var item in Model.Sliders)
+        {
+            <div> <img src="img/@item.Image" alt=""> </div>
+
+        }
+    </div>
+    <div class="container context pl-lg-5 ml-lg-3">
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="text">
+                    <h1>@Html.Raw(Model.SliderDetail.Head)</h1>
+                    <h1>@Model.SliderDetail.Title</h1>
+                    <p class="text-black-50 d-none d-sm-block">@Model.SliderDetail.Description</p>
+                </div>
+                <div class="img">
+                    <img src="img/@Model.SliderDetail.Image" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OneToMany")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3607f507c2548a96f97566d259a7bb862af990f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60e3a2c97b0ac41e1f6b17ea4cb91872a16e17fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("OneToMany")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OneToMany")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

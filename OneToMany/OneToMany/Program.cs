@@ -33,10 +33,17 @@ namespace OneToMany
             app.UseAuthorization();
 
             app.MapStaticAssets();
+
+            app.MapAreaControllerRoute(
+                name: "Areas",
+                areaName: "Admin",
+                pattern: "admin/{controller=Dashboard}/{action=Index}/{id?}");
+
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}")
                 .WithStaticAssets();
+
 
             app.Run();
         }
