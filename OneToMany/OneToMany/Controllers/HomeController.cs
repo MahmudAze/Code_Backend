@@ -23,7 +23,12 @@ namespace OneToMany.Controllers
             IEnumerable<Slider> sliders = await _context.Sliders.Where(m => !m.IsDeleted).ToListAsync();
             SliderDetail sliderDetail = await _context.SlidersDetails.FirstOrDefaultAsync(m => !m.IsDeleted);
 
-            IEnumerable<Product> products = await _context.Products.Include(m => m.ProductImages).Include(m => m.Category).Where(m => !m.IsDeleted).ToListAsync();
+            IEnumerable<Product> products = await _context.Products
+                .Include(m => m.ProductImages)
+                .Include(m => m.Category)
+                .Where(m => !m.IsDeleted)
+                .Take(4)
+                .ToListAsync();
 
             IEnumerable<Category> categories = await _context.Categories.Where(m => !m.IsDeleted).ToListAsync();
 
@@ -35,7 +40,23 @@ namespace OneToMany.Controllers
                 Categories = categories
             };
 
+            ViewBag.ProductCount = await _context.Products.CountAsync(m => !m.IsDeleted);
+
             return View(homeVM);
+        }
+
+
+        public async Task<IActionResult> LoadMore(int skip)
+        {
+            IEnumerable<Product> products = await _context.Products
+                .Include(m => m.ProductImages)
+                .Include(m => m.Category)
+                .Where(m => !m.IsDeleted)
+                .Skip(skip)
+                .Take(4)
+                .ToListAsync();
+
+            return PartialView("_ProductPartial", products);
         }
     }
 }
