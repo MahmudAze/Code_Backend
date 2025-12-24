@@ -14,7 +14,11 @@
                 <h6>@item.Category.Name</h6>
             </div>
             <div class="price">
-                <span class="text-black-50"><a asp-controller="Basket" asp-action="Add" asp-route-id="@item.Id">Add to cart</a></span>
+                <span class="text-black-50">
+                    <form asp-controller="Basket" asp-action="Add" asp-route-id="@item.Id">
+                        <button class="btn btn-primary">Add to cart</button>
+                    </form>
+                </span>
                 
                 <span class="text-black-50">@item.Price azn</span>
             </div>

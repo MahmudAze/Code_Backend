@@ -7,24 +7,20 @@
       "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\viewmodels\\basketvms\\basketdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\viewmodels\\basketvms\\basketdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\views\\shared\\_productpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\views\\shared\\_productpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\viewmodels\\basketvms\\basketvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\viewmodels\\basketvms\\basketvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,32 +30,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ProductPartial.cshtml",
-              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Views\\Shared\\_ProductPartial.cshtml",
-              "RelativeDocumentMoniker": "OneToMany\\Views\\Shared\\_ProductPartial.cshtml",
-              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Views\\Shared\\_ProductPartial.cshtml",
-              "RelativeToolTip": "OneToMany\\Views\\Shared\\_ProductPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB/AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OneToMany\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OneToMany\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHYAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T14:28:53.614Z",
+              "WhenOpened": "2025-12-24T18:11:04.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasketDetailVM.cs",
+              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\ViewModels\\BasketVMs\\BasketDetailVM.cs",
+              "RelativeDocumentMoniker": "OneToMany\\ViewModels\\BasketVMs\\BasketDetailVM.cs",
+              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\ViewModels\\BasketVMs\\BasketDetailVM.cs",
+              "RelativeToolTip": "OneToMany\\ViewModels\\BasketVMs\\BasketDetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T17:48:16.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "OneToMany\\Views\\Basket\\Index.cshtml",
+              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "OneToMany\\Views\\Basket\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T17:20:19.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BasketVM.cs",
-              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\ViewModels\\BasketVMs\\BasketVM.cs",
-              "RelativeDocumentMoniker": "OneToMany\\ViewModels\\BasketVMs\\BasketVM.cs",
-              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\ViewModels\\BasketVMs\\BasketVM.cs",
-              "RelativeToolTip": "OneToMany\\ViewModels\\BasketVMs\\BasketVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T13:49:41.208Z",
+              "Title": "_ProductPartial.cshtml",
+              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Views\\Shared\\_ProductPartial.cshtml",
+              "RelativeDocumentMoniker": "OneToMany\\Views\\Shared\\_ProductPartial.cshtml",
+              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Views\\Shared\\_ProductPartial.cshtml",
+              "RelativeToolTip": "OneToMany\\Views\\Shared\\_ProductPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T15:50:51.461Z",
               "EditorCaption": ""
             },
             {
@@ -70,52 +96,9 @@
               "RelativeDocumentMoniker": "OneToMany\\Controllers\\BasketController.cs",
               "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Controllers\\BasketController.cs",
               "RelativeToolTip": "OneToMany\\Controllers\\BasketController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAywB4AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T13:34:13.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "OneToMany\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "OneToMany\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T13:25:00.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Program.cs",
-              "RelativeDocumentMoniker": "OneToMany\\Program.cs",
-              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Program.cs",
-              "RelativeToolTip": "OneToMany\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAswDoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T13:04:17.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "OneToMany\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "OneToMany\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T13:00:25.61Z",
+              "WhenOpened": "2025-12-24T15:50:21.946Z",
               "EditorCaption": ""
             }
           ]
