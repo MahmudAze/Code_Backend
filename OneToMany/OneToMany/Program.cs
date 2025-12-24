@@ -9,8 +9,14 @@ namespace OneToMany
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(30);
+            });
+
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
 
             builder.Services.AddDbContext<AppDbContext>(options =>
             {
@@ -28,6 +34,7 @@ namespace OneToMany
             }
 
             app.UseHttpsRedirection();
+            app.UseSession();
             app.UseRouting();
 
             app.UseAuthorization();

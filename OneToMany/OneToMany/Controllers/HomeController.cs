@@ -20,6 +20,15 @@ namespace OneToMany.Controllers
 
         public async Task<IActionResult> Index()
         {
+            //HttpContext.Session.SetString("name", "Mahmud");
+            //HttpContext.Response.Cookies.Append("surname", "Rahimli", new CookieOptions()
+            //{
+            //    MaxAge = TimeSpan.FromMinutes(5)
+            //});
+
+            //ViewBag.Name = HttpContext.Session.GetString("name");
+            //ViewBag.Surname = HttpContext.Request.Cookies["surname"];
+
             IEnumerable<Slider> sliders = await _context.Sliders.Where(m => !m.IsDeleted).ToListAsync();
             SliderDetail sliderDetail = await _context.SlidersDetails.FirstOrDefaultAsync(m => !m.IsDeleted);
 
@@ -58,5 +67,10 @@ namespace OneToMany.Controllers
 
             return PartialView("_ProductPartial", products);
         }
+
+        //public IActionResult Test()
+        //{
+        //    return Json(HttpContext.Session.GetString("name"));
+        //}
     }
 }
