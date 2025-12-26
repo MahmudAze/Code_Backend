@@ -33,6 +33,10 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
@@ -42,8 +46,7 @@
               "RelativeToolTip": "OneToMany\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAGMAAAAAAAAAAAAAAHYAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T18:11:04.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-24T18:11:04.706Z"
             },
             {
               "$type": "Document",
@@ -55,12 +58,7 @@
               "RelativeToolTip": "OneToMany\\ViewModels\\BasketVMs\\BasketDetailVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T17:48:16.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "WhenOpened": "2025-12-24T17:48:16.835Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "OneToMany\\Views\\Basket\\Index.cshtml",
               "ViewState": "AgIAAAsAAAAAAAAAAAAtwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T17:20:19.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-24T17:20:19.183Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "OneToMany\\Views\\Shared\\_ProductPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T15:50:51.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-24T15:50:51.461Z"
             },
             {
               "$type": "Document",
