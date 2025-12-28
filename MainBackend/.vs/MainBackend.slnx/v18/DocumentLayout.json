@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "D:\\CFF_Backend\\MainBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|d:\\cff_backend\\mainbackend\\mainbackend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|solutionrelative:mainbackend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|d:\\cff_backend\\mainbackend\\mainbackend\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|solutionrelative:mainbackend\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|d:\\cff_backend\\mainbackend\\mainbackend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|solutionrelative:mainbackend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|d:\\cff_backend\\mainbackend\\mainbackend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|solutionrelative:mainbackend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|d:\\cff_backend\\mainbackend\\mainbackend\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|solutionrelative:mainbackend\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|d:\\cff_backend\\mainbackend\\mainbackend\\models\\sliderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|solutionrelative:mainbackend\\models\\sliderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|d:\\cff_backend\\mainbackend\\mainbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|solutionrelative:mainbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CFF_Backend\\MainBackend\\MainBackend\\Migrations\\20251228134111_AddSliderDetailsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainBackend\\Migrations\\20251228134111_AddSliderDetailsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MainBackend\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "MainBackend\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-28T13:53:02.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "MainBackend\\ViewModels\\HomeVM.cs",
-              "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "MainBackend\\ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T13:45:02.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MainBackend\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "MainBackend\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwEAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-28T13:43:52.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20251228134111_AddSliderDetailsTable.cs",
-              "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Migrations\\20251228134111_AddSliderDetailsTable.cs",
-              "RelativeDocumentMoniker": "MainBackend\\Migrations\\20251228134111_AddSliderDetailsTable.cs",
-              "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Migrations\\20251228134111_AddSliderDetailsTable.cs",
-              "RelativeToolTip": "MainBackend\\Migrations\\20251228134111_AddSliderDetailsTable.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowB4AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T13:41:12.018Z",
+              "WhenOpened": "2025-12-28T15:27:17.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "MainBackend\\ViewModels\\HomeVM.cs",
+              "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "MainBackend\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:27:13.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MainBackend\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MainBackend\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T13:40:50.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SliderDetail.cs",
-              "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Models\\SliderDetail.cs",
-              "RelativeDocumentMoniker": "MainBackend\\Models\\SliderDetail.cs",
-              "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Models\\SliderDetail.cs",
-              "RelativeToolTip": "MainBackend\\Models\\SliderDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T13:40:01.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MainBackend\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "MainBackend\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T13:38:33.924Z",
+              "WhenOpened": "2025-12-28T15:27:07.945Z",
               "EditorCaption": ""
             }
           ]

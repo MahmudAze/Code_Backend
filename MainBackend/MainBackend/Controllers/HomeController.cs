@@ -22,10 +22,16 @@ namespace MainBackend.Controllers
 
             SliderDetail sliderDetails = await _context.SliderDetails.FirstOrDefaultAsync(m => !m.IsDeleted);
 
+            IEnumerable<Product> products = await _context.Products.Include(m => m.ProductImages).Include(m => m.Category).Where(m => !m.IsDeleted).ToListAsync();
+
+            IEnumerable<Category> categories = await _context.Categories.Where(m => !m.IsDeleted).ToListAsync();
+
             HomeVM homeVM = new()
             {
                 Sliders = sliders,
-                SliderDetails = sliderDetails
+                SliderDetails = sliderDetails,
+                Products = products,
+                Categories = categories
             };
 
             return View(homeVM);
