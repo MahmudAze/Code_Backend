@@ -6708,7 +6708,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\Cyber\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -6717,14 +6717,14 @@
       "projectUniqueName": "D:\\CFF_Backend\\OneToMany\\OneToMany\\OneToMany.csproj",
       "projectName": "OneToMany",
       "projectPath": "D:\\CFF_Backend\\OneToMany\\OneToMany\\OneToMany.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Cyber\\.nuget\\packages\\",
       "outputPath": "D:\\CFF_Backend\\OneToMany\\OneToMany\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cyber\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

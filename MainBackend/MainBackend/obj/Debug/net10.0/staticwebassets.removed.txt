@@ -1,2 +1,0 @@
-D:\CFF_Backend\MainBackend\MainBackend\wwwroot\css\site.css
-D:\CFF_Backend\MainBackend\MainBackend\wwwroot\js\site.js

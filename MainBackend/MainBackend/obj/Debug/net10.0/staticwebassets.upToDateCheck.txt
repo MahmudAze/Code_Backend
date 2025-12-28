@@ -125,7 +125,9 @@ wwwroot\sass\sections\_slider.scss
 wwwroot\sass\sections\_subscribe.scss
 wwwroot\sass\sections\_tab.scss
 wwwroot\sass\style.scss
+D:\CFF_Backend\MainBackend\MainBackend\wwwroot\css\style.css.map
 D:\CFF_Backend\MainBackend\MainBackend\wwwroot\favicon.ico
+D:\CFF_Backend\MainBackend\MainBackend\wwwroot\css\style.css
 D:\CFF_Backend\MainBackend\MainBackend\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 D:\CFF_Backend\MainBackend\MainBackend\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 D:\CFF_Backend\MainBackend\MainBackend\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -185,8 +187,6 @@ D:\CFF_Backend\MainBackend\MainBackend\wwwroot\lib\jquery\dist\jquery.slim.js
 D:\CFF_Backend\MainBackend\MainBackend\wwwroot\lib\jquery\dist\jquery.slim.min.js
 D:\CFF_Backend\MainBackend\MainBackend\wwwroot\lib\jquery\dist\jquery.slim.min.map
 D:\CFF_Backend\MainBackend\MainBackend\wwwroot\lib\jquery\LICENSE.txt
-D:\CFF_Backend\MainBackend\MainBackend\wwwroot\css\style.css
-D:\CFF_Backend\MainBackend\MainBackend\wwwroot\css\style.css.map
 D:\CFF_Backend\MainBackend\MainBackend\wwwroot\js\script.js
 D:\CFF_Backend\MainBackend\MainBackend\wwwroot\owlcarousel\owl.carousel.min.css
 D:\CFF_Backend\MainBackend\MainBackend\wwwroot\owlcarousel\owl.carousel.min.js
