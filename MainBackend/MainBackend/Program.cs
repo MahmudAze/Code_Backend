@@ -1,5 +1,6 @@
 using MainBackend.Data;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileSystemGlobbing.Internal.Patterns;
 
 namespace MainBackend
 {
@@ -33,6 +34,13 @@ namespace MainBackend
             app.UseAuthorization();
 
             app.MapStaticAssets();
+
+            app.MapAreaControllerRoute(
+                name: "Areas",
+                areaName: "Admin",
+                pattern: "admin/{controller=Dashboard}/{action=Index}/{id?}"
+                );
+
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}")

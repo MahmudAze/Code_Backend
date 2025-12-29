@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\CFF_Backend\\MainBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|d:\\cff_backend\\mainbackend\\mainbackend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|solutionrelative:mainbackend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|d:\\cff_backend\\mainbackend\\mainbackend\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|solutionrelative:mainbackend\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|d:\\cff_backend\\mainbackend\\mainbackend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|solutionrelative:mainbackend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|d:\\cff_backend\\mainbackend\\mainbackend\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|solutionrelative:mainbackend\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|d:\\cff_backend\\mainbackend\\mainbackend\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|solutionrelative:mainbackend\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|d:\\cff_backend\\mainbackend\\mainbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|solutionrelative:mainbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|d:\\cff_backend\\mainbackend\\mainbackend\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|solutionrelative:mainbackend\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|d:\\cff_backend\\mainbackend\\mainbackend\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C12C6D-2E58-7776-DE69-BED9D89E6D9B}|MainBackend\\MainBackend.csproj|solutionrelative:mainbackend\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MainBackend\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MainBackend\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAiwEAAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MainBackend\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MainBackend\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-28T15:27:17.462Z",
+              "WhenOpened": "2025-12-29T16:03:59.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "MainBackend\\ViewModels\\HomeVM.cs",
-              "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "MainBackend\\ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Program.cs",
+              "RelativeDocumentMoniker": "MainBackend\\Program.cs",
+              "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Program.cs",
+              "RelativeToolTip": "MainBackend\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T15:27:13.083Z",
+              "WhenOpened": "2025-12-29T16:01:20.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MainBackend\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "MainBackend\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAABUAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MainBackend\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "MainBackend\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAADsBAAAAAAAAAAAUwFIBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T16:00:14.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MainBackend\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MainBackend\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAAwHoBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T15:59:25.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MainBackend\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\CFF_Backend\\MainBackend\\MainBackend\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MainBackend\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T15:27:07.945Z",
+              "WhenOpened": "2025-12-29T15:58:36.045Z",
               "EditorCaption": ""
             }
           ]

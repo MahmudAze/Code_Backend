@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "D:\\CFF_Backend\\OneToMany\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|d:\\cff_backend\\onetomany\\onetomany\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B554CAD-3CB7-6220-2BF0-A739AB4EB93C}|OneToMany\\OneToMany.csproj|solutionrelative:onetomany\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "OneToMany\\ViewModels\\HomeVM.cs",
-              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "OneToMany\\ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T15:06:51.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "OneToMany\\Models\\Category.cs",
-              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Models\\Category.cs",
-              "RelativeToolTip": "OneToMany\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T14:56:06.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "OneToMany\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "OneToMany\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T14:44:42.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "OneToMany\\Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "OneToMany\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-28T14:35:07.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "OneToMany\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "OneToMany\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAAEsAAAAaAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Program.cs",
+              "RelativeDocumentMoniker": "OneToMany\\Program.cs",
+              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Program.cs",
+              "RelativeToolTip": "OneToMany\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:01:04.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "OneToMany\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "OneToMany\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAADcBAAAAAAAAAAAAwEABAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-28T14:33:25.21Z",
+              "WhenOpened": "2025-12-29T16:00:04.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "OneToMany\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "OneToMany\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T14:10:19.421Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "OneToMany\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "OneToMany\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T15:59:13.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "OneToMany\\Models\\Product.cs",
-              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Models\\Product.cs",
-              "RelativeToolTip": "OneToMany\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "OneToMany\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\CFF_Backend\\OneToMany\\OneToMany\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "OneToMany\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T14:08:38.353Z",
+              "WhenOpened": "2025-12-29T15:58:22.356Z",
               "EditorCaption": ""
             }
           ]
