@@ -1,4 +1,6 @@
-﻿let loadMore = document.querySelector(".load-more");
+﻿// LoadMore in HomeController
+
+let loadMore = document.querySelector(".load-more");
 
 loadMore.addEventListener("click", function () {
     let htmlProductCount = document.querySelectorAll(".product").length;
@@ -21,6 +23,8 @@ loadMore.addEventListener("click", function () {
             }
         })
 });
+
+// LoadMore button in Product page
 
 $(document).on("click", ".load-more", function () {
     let skip = $("#product-container .product").length; // Count existing products
