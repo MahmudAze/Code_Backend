@@ -4,6 +4,7 @@ using MainBackend.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MainBackend.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260103185136_addBlogTable")]
+    partial class addBlogTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -56,7 +59,7 @@ namespace MainBackend.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedDate = new DateTime(2025, 12, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            CreatedDate = new DateTime(2026, 1, 3, 22, 51, 33, 792, DateTimeKind.Local).AddTicks(138),
                             Description = "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per",
                             Image = "blog-feature-img-1.jpg",
                             IsDeleted = false,
@@ -65,7 +68,7 @@ namespace MainBackend.Migrations
                         new
                         {
                             Id = 2,
-                            CreatedDate = new DateTime(2025, 12, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            CreatedDate = new DateTime(2026, 1, 3, 22, 51, 33, 793, DateTimeKind.Local).AddTicks(529),
                             Description = "This is the first post in our blog. Stay tuned for updates!",
                             Image = "blog-feature-img-3.jpg",
                             IsDeleted = false,
@@ -74,7 +77,7 @@ namespace MainBackend.Migrations
                         new
                         {
                             Id = 3,
-                            CreatedDate = new DateTime(2025, 12, 22, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            CreatedDate = new DateTime(2026, 1, 3, 22, 51, 33, 793, DateTimeKind.Local).AddTicks(540),
                             Description = "This is the first post in our blog. Stay tuned for updates!",
                             Image = "blog-feature-img-4.jpg",
                             IsDeleted = false,
@@ -156,30 +159,6 @@ namespace MainBackend.Migrations
                     b.HasIndex("ProductId");
 
                     b.ToTable("ProductImages");
-                });
-
-            modelBuilder.Entity("MainBackend.Models.Setting", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<bool>("IsDeleted")
-                        .HasColumnType("bit");
-
-                    b.Property<string>("Key")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Value")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Settings");
                 });
 
             modelBuilder.Entity("MainBackend.Models.Slider", b =>

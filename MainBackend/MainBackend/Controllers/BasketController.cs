@@ -100,7 +100,9 @@ namespace MainBackend.Controllers
             return RedirectToAction("Index", "Home");
         }
 
-        public IActionResult Delete(int? id)
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(int? id)
         {
             if (id is null) return BadRequest();
 

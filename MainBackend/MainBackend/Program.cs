@@ -1,4 +1,5 @@
 using MainBackend.Data;
+using MainBackend.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileSystemGlobbing.Internal.Patterns;
 
@@ -13,6 +14,8 @@ namespace MainBackend
             builder.Services.AddSession(options =>
             {
                 options.IdleTimeout = TimeSpan.FromMinutes(30);
+                options.Cookie.HttpOnly = true;
+                options.Cookie.IsEssential = true;
             });
 
             // Add services to the container.
@@ -22,6 +25,8 @@ namespace MainBackend
 
             builder.Services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(connectionString));
+
+            builder.Services.AddScoped<LayoutService>();
 
             var app = builder.Build();
 
