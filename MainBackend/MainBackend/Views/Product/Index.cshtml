@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Product>
+
+<main>
+    <section id="shop-list-title">
+        <div class="container py-4">
+            <div class="row py-5">
+                <div class="col-12">
+                    <h1>Shop List</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="products">
+        <div class="container">
+            <div class="row py-5" id="product-container">
+                <partial name="_ProductPartial" model="Model" />
+            </div>
+
+            <input class="product-count" value="@ViewBag.ProductCount" hidden />
+
+            <div style="display: flex; justify-content: center; align-items: center;">
+                <button class="btn btn-primary load-more">Load More</button>
+            </div>
+        </div>
+    </section>
+
+</main>
