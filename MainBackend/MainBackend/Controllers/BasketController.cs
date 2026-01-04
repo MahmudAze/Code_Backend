@@ -65,9 +65,9 @@ namespace MainBackend.Controllers
         {
             if (id is null) return BadRequest();
 
-            bool isExist = await _context.Products.AnyAsync(m => m.Id == id);
+            var isExist = await _context.Products.FirstOrDefaultAsync(m => m.Id == id);
 
-            if (!isExist) return NotFound();
+            if (isExist == null) return NotFound();
 
             List<BasketVM> basketVMs;
 
@@ -91,7 +91,8 @@ namespace MainBackend.Controllers
                 basketVMs.Add(new BasketVM()
                 {
                     Id = (int)id,
-                    Count = 1
+                    Count = 1,
+                    Price = isExist.Price
                 });
             }
 

@@ -1,4 +1,4 @@
-﻿@model Dictionary<string,string>
+﻿@model HeaderVM
 
 <div class="container">
     <div class="row">
@@ -6,7 +6,7 @@
             <nav class="navbar navbar-expand-lg d-flex d-lg-block justify-content-between d-xl-flex navbar-light py-3 py-lg-0">
                 @* Loqo hissəsi düzəldildi *@
                 <a asp-controller="Home" asp-action="Index">
-                    <img src="~/img/@Model["Logo"]" alt="logo" id="logo">
+                    <img src="~/img/@Model.Settings["Logo"]" alt="logo" id="logo">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse"
                         data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -90,9 +90,9 @@
                         </li>
                         <li class="nav-item my-auto shop-cart">
                             <i class="fas fa-shopping-bag"></i>
-                            <sup class="rounded-circle">0</sup>
+                            <sup class="rounded-circle">@Model.BasketCount</sup>
                             <span>
-                                <a asp-controller="Basket" asp-action="Index">CART ($0)</a>
+                                <a asp-controller="Basket" asp-action="Index">CART (@Model.BasketPrice azn)</a>
                             </span>
                             <ul class="list-unstyled py-3">
                                 <li class="">No products in the cart.</li>
